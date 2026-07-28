@@ -6,6 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // webpack bundler selected via lib/bundler.js patch
 }
 
 export default nextConfig
